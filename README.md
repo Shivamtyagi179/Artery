@@ -75,15 +75,15 @@ Output (Voice / Actions / Alerts)
 
 🧠 Processing (Speech + NLP)
 
-   ↓
+        ↓
 
 ⚙️ Task Engine
 
-   ↓
+       ↓
 
 💻 System Execution
 
-   ↓
+       ↓
 
 🔊 Response / Action
 
