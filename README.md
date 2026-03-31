@@ -32,8 +32,6 @@ Unlike traditional assistants, Artery doesn’t just wait —  it **understands,
 
 ---
 
-
-
 ## 🏗️ Architecture
 
 User Input (Voice / Vision / Text)
@@ -48,7 +46,7 @@ Execution Layer (OS / Apps / Security)
         ↓
 Output (Voice / Actions / Alerts)
 
-
+---
 
 📂 Project Structure
 
@@ -65,6 +63,8 @@ artery/
 │── drivers/            # Hardware/low-level control
 │── main.py             # Entry point
 
+
+---
 
 
 ⚙️ Core Workflow
