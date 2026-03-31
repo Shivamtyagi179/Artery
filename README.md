@@ -60,18 +60,7 @@ Output (Voice / Actions / Alerts)
 
 📂 Project Structure
 
-artery/
-│── core/               # Brain logic (task engine, memory)
-│── modules/            # OS & App control
-│── plugins/            # Extend functionality
-│── speech/             # Voice input/output
-│── vision/             # Face & environment detection
-│── system_monitor/     # Health & security tracking
-│── ui/                 # Interface layer
-│── data/               # Runtime data
-│── secrets/            # Secure configs
-│── drivers/            # Hardware/low-level control
-│── main.py             # Entry point
+<img width="924" height="450" alt="image" src="https://github.com/user-attachments/assets/d82ab49c-96fc-4cfe-a24c-d961389d3f49" />
 
 
 ---
