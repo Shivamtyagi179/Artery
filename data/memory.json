@@ -1,0 +1,2053 @@
+{
+    "open Chrome": {
+        "count": 2
+    },
+    "learn https://www.python.org/doc/": {
+        "count": 39
+    },
+    "notes": [
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        },
+        {
+            "title": "Online Learning",
+            "content": "<!doctype html>\n<!--[if lt IE 7]>   <html class=\"no-js ie6 lt-ie7 lt-ie8 lt-ie9\">   <![endif]-->\n<!--[if IE 7]>      <html class=\"no-js ie7 lt-ie8 lt-ie9\">          <![endif]-->\n<!--[if IE 8]>      <html class=\"no-js ie8 lt-ie9\">                 <![endif]-->\n<!--[if gt IE 8]><!--><html class=\"no-js\" lang=\"en\" dir=\"ltr\">  <!--<![endif]-->\n\n<head>\n    <script defer\n            file-types=\"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip\"\n            data-domain=\"python.org\"\n            src=\"https://analytics.python.org/js/script.file-downloads.outbound-links.js\"></script>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\">\n    <link rel=\"prefetch\" href=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js\">\n\n    <meta name=\"application-name\" content=\"Python.org\">\n    <meta name=\"msapplication-tooltip\" content=\"The official home of the Python Progra",
+            "source": "https://www.python.org/doc/"
+        }
+    ],
+    "open youtube": {
+        "count": 11
+    },
+    "hkgfyk": {
+        "count": 1
+    },
+    "play song": {
+        "count": 17
+    },
+    "open whatsapp": {
+        "count": 31
+    },
+    "open chrome": {
+        "count": 32
+    },
+    "open notepad": {
+        "count": 8
+    },
+    "close notepad": {
+        "count": 3
+    },
+    "open vs code": {
+        "count": 15
+    },
+    "system control mein": {
+        "count": 1
+    },
+    "ok close": {
+        "count": 1
+    },
+    "artery open chrome": {
+        "count": 13
+    },
+    "artery open youtube": {
+        "count": 2
+    },
+    "song chalao": {
+        "count": 6
+    },
+    "sad song": {
+        "count": 19
+    },
+    "artery sad song chalao": {
+        "count": 1
+    },
+    "mujhe kuchh bhi sunna": {
+        "count": 1
+    },
+    "parampara": {
+        "count": 1
+    },
+    "hello arter": {
+        "count": 1
+    },
+    "sad song chalao": {
+        "count": 1
+    },
+    "ok open youtube": {
+        "count": 1
+    },
+    "artery song chalao": {
+        "count": 3
+    },
+    "battery play song": {
+        "count": 2
+    },
+    "artery play song": {
+        "count": 17
+    },
+    "play karo": {
+        "count": 1
+    },
+    "old state": {
+        "count": 1
+    },
+    "open excel": {
+        "count": 13
+    },
+    "open word": {
+        "count": 8
+    },
+    "play financial": {
+        "count": 1
+    },
+    "artery play financer": {
+        "count": 2
+    },
+    "play financer song": {
+        "count": 3
+    },
+    "play music": {
+        "count": 1
+    },
+    "sherawali mata ka": {
+        "count": 1
+    },
+    "natak": {
+        "count": 1
+    },
+    "narsi nagar krishna bhagwan ko apna beta": {
+        "count": 1
+    },
+    "party play song": {
+        "count": 1
+    },
+    "samajh lena chahie": {
+        "count": 1
+    },
+    "artery play whatsapp": {
+        "count": 1
+    },
+    "artery open whatsapp": {
+        "count": 8
+    },
+    "open word file": {
+        "count": 1
+    },
+    "open previous": {
+        "count": 1
+    },
+    "open previous projector": {
+        "count": 1
+    },
+    "song": {
+        "count": 1
+    },
+    "replay song": {
+        "count": 1
+    },
+    "energetic": {
+        "count": 1
+    },
+    "hindi": {
+        "count": 6
+    },
+    "artery call uthao": {
+        "count": 1
+    },
+    "hello": {
+        "count": 8
+    },
+    "artery": {
+        "count": 3
+    },
+    "artery vardan": {
+        "count": 1
+    },
+    "vardan ko message send karo": {
+        "count": 2
+    },
+    "call me play song": {
+        "count": 1
+    },
+    "sad": {
+        "count": 4
+    },
+    "python main.py": {
+        "count": 1
+    },
+    "": {
+        "count": 7
+    },
+    "open": {
+        "count": 7
+    },
+    "close chrome": {
+        "count": 13
+    },
+    "financer song": {
+        "count": 1
+    },
+    "kuchh": {
+        "count": 1
+    },
+    "chup ho ja": {
+        "count": 1
+    },
+    "yah sab nahin to bolna sikha raha hun": {
+        "count": 1
+    },
+    "you are bada aise janwar": {
+        "count": 1
+    },
+    "artery play": {
+        "count": 1
+    },
+    "punjabi": {
+        "count": 3
+    },
+    "change karo": {
+        "count": 1
+    },
+    "battery change the song": {
+        "count": 1
+    },
+    "can you change the place song": {
+        "count": 1
+    },
+    "artery can you play next song": {
+        "count": 1
+    },
+    "tum khaoge": {
+        "count": 1
+    },
+    "hd cartoon": {
+        "count": 1
+    },
+    "artery play sad song": {
+        "count": 9
+    },
+    "lagi teri": {
+        "count": 1
+    },
+    "change the song": {
+        "count": 3
+    },
+    "artery play shahi song": {
+        "count": 2
+    },
+    "play next song": {
+        "count": 3
+    },
+    "artery rewind the song": {
+        "count": 1
+    },
+    "audrey whatsapp": {
+        "count": 1
+    },
+    "message send karo": {
+        "count": 1
+    },
+    "khan ko whatsapp per message send karo": {
+        "count": 1
+    },
+    "whatsapp per message send karo": {
+        "count": 1
+    },
+    "send karo": {
+        "count": 1
+    },
+    "are karo mehnat kab pad": {
+        "count": 1
+    },
+    "whatsapp message": {
+        "count": 2
+    },
+    "vardan ko": {
+        "count": 3
+    },
+    "admit card nikal": {
+        "count": 2
+    },
+    "\u0006vardan ko": {
+        "count": 1
+    },
+    "admit card nikalwa": {
+        "count": 1
+    },
+    "admit card": {
+        "count": 1
+    },
+    "vs code": {
+        "count": 5
+    },
+    "play financial song": {
+        "count": 1
+    },
+    "vardan ko message": {
+        "count": 1
+    },
+    "vardan ko message bhejo": {
+        "count": 2
+    },
+    "subah 5:00 call kar deo": {
+        "count": 1
+    },
+    "kahan per": {
+        "count": 1
+    },
+    "bhejo subah 5:00 call kar diya": {
+        "count": 1
+    },
+    "honda noni wala": {
+        "count": 1
+    },
+    "next song": {
+        "count": 2
+    },
+    "aurangabad": {
+        "count": 1
+    },
+    "se hata do pahle background": {
+        "count": 1
+    },
+    "han theek": {
+        "count": 1
+    },
+    "500 ki mala": {
+        "count": 1
+    },
+    "play sans": {
+        "count": 1
+    },
+    "shiv bhajan": {
+        "count": 1
+    },
+    "play shiv bhajan": {
+        "count": 2
+    },
+    "play shiv song": {
+        "count": 1
+    },
+    "play next": {
+        "count": 7
+    },
+    "play danda noni wala song": {
+        "count": 1
+    },
+    "the volume": {
+        "count": 1
+    },
+    "increase the volume": {
+        "count": 3
+    },
+    "rewind the": {
+        "count": 1
+    },
+    "cd c:\\users\\shiva\\onedrive\\desktop\\artery": {
+        "count": 1
+    },
+    "open whatshap": {
+        "count": 1
+    },
+    "open vscode": {
+        "count": 3
+    },
+    "close whatsapp": {
+        "count": 17
+    },
+    "play punjabi song": {
+        "count": 1
+    },
+    "play haryanvi song": {
+        "count": 1
+    },
+    "shutdown": {
+        "count": 7
+    },
+    "play gta": {
+        "count": 1
+    },
+    "free play gta v": {
+        "count": 1
+    },
+    "open gta v": {
+        "count": 3
+    },
+    "open whatsapp ar": {
+        "count": 1
+    },
+    "call vardan": {
+        "count": 1
+    },
+    "excel open karo": {
+        "count": 1
+    },
+    "open karo": {
+        "count": 1
+    },
+    "open powerpoint": {
+        "count": 3
+    },
+    "play sad song": {
+        "count": 34
+    },
+    "12": {
+        "count": 1
+    },
+    "close the chrome": {
+        "count": 2
+    },
+    "artery open notepad": {
+        "count": 3
+    },
+    "close the excel": {
+        "count": 1
+    },
+    "poultry open whatsapp": {
+        "count": 1
+    },
+    "artery close whatsapp": {
+        "count": 3
+    },
+    "close the song": {
+        "count": 2
+    },
+    "close youtube": {
+        "count": 7
+    },
+    "chrome": {
+        "count": 3
+    },
+    "close the vs code": {
+        "count": 1
+    },
+    "open hidden wiki": {
+        "count": 1
+    },
+    "website": {
+        "count": 1
+    },
+    "wikipedia": {
+        "count": 1
+    },
+    "open wikipedia": {
+        "count": 1
+    },
+    "whatsapp": {
+        "count": 9
+    },
+    "close the whatsapp": {
+        "count": 1
+    },
+    "close all the app": {
+        "count": 5
+    },
+    "close all the": {
+        "count": 1
+    },
+    "close excel": {
+        "count": 7
+    },
+    "is notepad": {
+        "count": 1
+    },
+    "naya": {
+        "count": 1
+    },
+    "artery open vs code": {
+        "count": 7
+    },
+    "artery open excel": {
+        "count": 3
+    },
+    "artery open": {
+        "count": 2
+    },
+    "artery open world": {
+        "count": 2
+    },
+    "artery open word": {
+        "count": 2
+    },
+    "applications": {
+        "count": 1
+    },
+    "application": {
+        "count": 2
+    },
+    "battery close all the application": {
+        "count": 1
+    },
+    "close all the application": {
+        "count": 1
+    },
+    "open world": {
+        "count": 1
+    },
+    "close all app": {
+        "count": 5
+    },
+    "yes": {
+        "count": 10
+    },
+    "iske pass mein pada tha na": {
+        "count": 1
+    },
+    "yes no": {
+        "count": 1
+    },
+    "poultry open chrome": {
+        "count": 4
+    },
+    "artery close all app": {
+        "count": 1
+    },
+    "yeyesyes": {
+        "count": 1
+    },
+    "yyes": {
+        "count": 2
+    },
+    "notepad": {
+        "count": 2
+    },
+    "artery close notepad": {
+        "count": 1
+    },
+    "open chrome ar": {
+        "count": 1
+    },
+    "close vs code": {
+        "count": 5
+    },
+    "file": {
+        "count": 1
+    },
+    "open your project": {
+        "count": 1
+    },
+    "artery volume up": {
+        "count": 6
+    },
+    "volume down": {
+        "count": 41
+    },
+    "arter": {
+        "count": 1
+    },
+    "attribute": {
+        "count": 1
+    },
+    "brightness up": {
+        "count": 3
+    },
+    "artery brightness up": {
+        "count": 2
+    },
+    "brightness down": {
+        "count": 1
+    },
+    "battery charging": {
+        "count": 1
+    },
+    "battery battery percentage": {
+        "count": 1
+    },
+    "artery check battery status": {
+        "count": 1
+    },
+    "battery open youtube": {
+        "count": 1
+    },
+    "poultry play song": {
+        "count": 1
+    },
+    "volume up": {
+        "count": 17
+    },
+    "artery volume of 70%": {
+        "count": 1
+    },
+    "artery volume down 10%": {
+        "count": 1
+    },
+    "artery volume up 20%": {
+        "count": 1
+    },
+    "mute": {
+        "count": 10
+    },
+    "volume mute": {
+        "count": 1
+    },
+    "artery slip": {
+        "count": 1
+    },
+    "close": {
+        "count": 4
+    },
+    "close all apps": {
+        "count": 1
+    },
+    "uyes": {
+        "count": 1
+    },
+    "artery shutdown": {
+        "count": 1
+    },
+    "open gta": {
+        "count": 7
+    },
+    "open gta 5": {
+        "count": 1
+    },
+    "artery close chrome": {
+        "count": 6
+    },
+    "lottery open whatsapp": {
+        "count": 1
+    },
+    "nahin vah": {
+        "count": 1
+    },
+    "nahin vah band": {
+        "count": 1
+    },
+    "nahin": {
+        "count": 1
+    },
+    "yyesyes": {
+        "count": 1
+    },
+    "create new file": {
+        "count": 2
+    },
+    "create file": {
+        "count": 1
+    },
+    "sl": {
+        "count": 1
+    },
+    "sleep": {
+        "count": 1
+    },
+    "battery status": {
+        "count": 8
+    },
+    "create folder": {
+        "count": 1
+    },
+    "ishq mein aage thoda karo": {
+        "count": 1
+    },
+    "hindi words ke liye dobara": {
+        "count": 1
+    },
+    "open whatsapp arter": {
+        "count": 1
+    },
+    "mujhe": {
+        "count": 1
+    },
+    "check karne ke liye banana task karne complete": {
+        "count": 1
+    },
+    "artery open vscode": {
+        "count": 1
+    },
+    "artery close desktop": {
+        "count": 1
+    },
+    "artery close whatsapp desktop": {
+        "count": 1
+    },
+    "open my files": {
+        "count": 1
+    },
+    "open file explorer": {
+        "count": 1
+    },
+    "battery volume up": {
+        "count": 1
+    },
+    "unmute": {
+        "count": 9
+    },
+    "switch to performance mode": {
+        "count": 1
+    },
+    "battery brightness up": {
+        "count": 1
+    },
+    "artery sleep": {
+        "count": 1
+    },
+    "artery close vs code": {
+        "count": 3
+    },
+    "artery brightness down": {
+        "count": 1
+    },
+    "artery mute": {
+        "count": 1
+    },
+    "artery unmute": {
+        "count": 1
+    },
+    "tanda neoli wala": {
+        "count": 1
+    },
+    "newly all": {
+        "count": 1
+    },
+    "please play": {
+        "count": 1
+    },
+    "play baarish": {
+        "count": 1
+    },
+    "play": {
+        "count": 1
+    },
+    "youtube": {
+        "count": 1
+    },
+    "poultry open": {
+        "count": 1
+    },
+    "lock the system": {
+        "count": 2
+    },
+    "battery percentage": {
+        "count": 2
+    },
+    "battery kitne percent charge hai": {
+        "count": 1
+    },
+    "artery chrome open karo": {
+        "count": 2
+    },
+    "poultry chrome open karo": {
+        "count": 1
+    },
+    "notepad open karo": {
+        "count": 1
+    },
+    "artery open powerpoint": {
+        "count": 1
+    },
+    "artery close": {
+        "count": 1
+    },
+    "artery open karo": {
+        "count": 1
+    },
+    "poetry open chrome": {
+        "count": 1
+    },
+    "try close chrome": {
+        "count": 1
+    },
+    "poetry close setting": {
+        "count": 1
+    },
+    "setting": {
+        "count": 1
+    },
+    "close setting": {
+        "count": 2
+    },
+    "open setting": {
+        "count": 2
+    },
+    "open wi-fi": {
+        "count": 1
+    },
+    "open bluetooth": {
+        "count": 2
+    },
+    "close bluetooth": {
+        "count": 2
+    },
+    "birthday play song": {
+        "count": 1
+    },
+    "poetry play song": {
+        "count": 1
+    },
+    "socha vich tu": {
+        "count": 1
+    },
+    "artery play socha": {
+        "count": 1
+    },
+    "rosewoods youtube": {
+        "count": 1
+    },
+    "today date": {
+        "count": 1
+    },
+    "artery system shutdown": {
+        "count": 2
+    },
+    "yesdyyes": {
+        "count": 1
+    },
+    "indian english": {
+        "count": 1
+    },
+    "control ke andar bhi change kar sakte": {
+        "count": 1
+    },
+    "party play dil": {
+        "count": 1
+    },
+    "marathi open whatsapp": {
+        "count": 1
+    },
+    "punjabi song": {
+        "count": 1
+    },
+    "pottery play sad song": {
+        "count": 1
+    },
+    "projection": {
+        "count": 1
+    },
+    "donon nahin karne the": {
+        "count": 1
+    },
+    "next": {
+        "count": 70
+    },
+    "previous": {
+        "count": 11
+    },
+    "artery volume down": {
+        "count": 7
+    },
+    "battery volume down": {
+        "count": 2
+    },
+    "full screen": {
+        "count": 2
+    },
+    "play sad": {
+        "count": 2
+    },
+    "brightness": {
+        "count": 1
+    },
+    "volume": {
+        "count": 7
+    },
+    "hydraulic play sad": {
+        "count": 1
+    },
+    "stop": {
+        "count": 3
+    },
+    "various": {
+        "count": 1
+    },
+    "resume": {
+        "count": 3
+    },
+    "python -u \"c:\\users\\shiva\\onedrive\\desktop\\artery\\core\\task_engine.py\"": {
+        "count": 1
+    },
+    "pottery open whatsapp": {
+        "count": 1
+    },
+    "next video": {
+        "count": 1
+    },
+    "male shahid kapoor": {
+        "count": 1
+    },
+    "open gmail": {
+        "count": 1
+    },
+    "achcha matlab yah tumne jaise open whatsapp open aapke youtube per specific event": {
+        "count": 1
+    },
+    "youtube previous": {
+        "count": 1
+    },
+    "security so much more": {
+        "count": 1
+    },
+    "main job search": {
+        "count": 1
+    },
+    "ismein search karo": {
+        "count": 1
+    },
+    "story": {
+        "count": 1
+    },
+    "diwali": {
+        "count": 1
+    },
+    "phone a raha hai nikki ka": {
+        "count": 1
+    },
+    "microf": {
+        "count": 1
+    },
+    "mike off": {
+        "count": 1
+    },
+    "artery can you play whatsapp": {
+        "count": 1
+    },
+    "artery play whatsapp automation video": {
+        "count": 1
+    },
+    "artery nikita ko hay ka message send karo": {
+        "count": 1
+    },
+    "artery nikita ko highway": {
+        "count": 1
+    },
+    "nikita ko boyfriend": {
+        "count": 1
+    },
+    "nikita ko 5": {
+        "count": 1
+    },
+    "battery nikita ko hybrid": {
+        "count": 1
+    },
+    "battery nikita ko": {
+        "count": 1
+    },
+    "nikita ko hay": {
+        "count": 1
+    },
+    "send message to nikita": {
+        "count": 2
+    },
+    "artery nikita bahan ko hay": {
+        "count": 1
+    },
+    "artery nikita ko hay": {
+        "count": 1
+    },
+    "artery nikita ko": {
+        "count": 1
+    },
+    "artery nikita ko hay bhejo": {
+        "count": 1
+    },
+    "nikita ko good night": {
+        "count": 1
+    },
+    "ko good night bhej": {
+        "count": 1
+    },
+    "nikita boy": {
+        "count": 1
+    },
+    "vardan ko hay bhejo": {
+        "count": 2
+    },
+    "vardan ko hay": {
+        "count": 1
+    },
+    "kuchh to kar denge paise": {
+        "count": 1
+    },
+    "nikita ko hii nikita nikita ko hii bhej do nikita ko hii bhej do": {
+        "count": 1
+    },
+    "nikita ko hii bhej do": {
+        "count": 1
+    },
+    "constitutional kumar": {
+        "count": 1
+    },
+    "open edge": {
+        "count": 1
+    },
+    "closest": {
+        "count": 1
+    },
+    "dosa": {
+        "count": 1
+    },
+    "status": {
+        "count": 3
+    },
+    "connected device": {
+        "count": 1
+    },
+    "open github": {
+        "count": 2
+    },
+    "close all application": {
+        "count": 2
+    },
+    "close all": {
+        "count": 1
+    },
+    "open microsoft": {
+        "count": 1
+    },
+    "close word": {
+        "count": 3
+    },
+    "close power point": {
+        "count": 1
+    },
+    "no": {
+        "count": 4
+    },
+    "restart": {
+        "count": 4
+    },
+    "android version": {
+        "count": 1
+    },
+    "send hi to vardhan": {
+        "count": 1
+    },
+    "jaan ko hay": {
+        "count": 1
+    },
+    "exit": {
+        "count": 1
+    },
+    "send her brother": {
+        "count": 1
+    },
+    "ar": {
+        "count": 1
+    },
+    "send hay message tu vardan": {
+        "count": 4
+    },
+    "vardan ko hay message": {
+        "count": 2
+    },
+    "send whatsapp message to imran": {
+        "count": 1
+    },
+    "whatsapp message to burdwan": {
+        "count": 1
+    },
+    "send whatsapp message to vardhan": {
+        "count": 1
+    },
+    "python -u \"c:\\users\\shiva\\onedrive\\desktop\\artery\\main.py\"": {
+        "count": 4
+    },
+    "send whatsapp message tu vard": {
+        "count": 1
+    },
+    "send hay": {
+        "count": 5
+    },
+    "send hi": {
+        "count": 1
+    },
+    "tu nikita": {
+        "count": 1
+    },
+    "send hi message to nikita": {
+        "count": 3
+    },
+    "send hay tu nikita": {
+        "count": 2
+    },
+    "send her": {
+        "count": 1
+    },
+    "call to": {
+        "count": 1
+    },
+    "ok play sad song": {
+        "count": 1
+    },
+    "madhya pradesh": {
+        "count": 1
+    },
+    "chocolate": {
+        "count": 1
+    },
+    "33": {
+        "count": 1
+    },
+    "swarna": {
+        "count": 1
+    },
+    "197": {
+        "count": 1
+    },
+    "send a": {
+        "count": 1
+    },
+    "message to nikita": {
+        "count": 1
+    },
+    "sad hay": {
+        "count": 1
+    },
+    "send hay message tu nikita": {
+        "count": 2
+    },
+    "333": {
+        "count": 1
+    },
+    "takatvar": {
+        "count": 1
+    },
+    "pratham didi ke": {
+        "count": 1
+    },
+    "assalam walekum": {
+        "count": 1
+    },
+    "send hi message to vardan": {
+        "count": 6
+    },
+    "pakistan": {
+        "count": 1
+    },
+    "aur sunao": {
+        "count": 1
+    },
+    "whatsapp khol do": {
+        "count": 1
+    },
+    "school": {
+        "count": 1
+    },
+    "send my message to nikita": {
+        "count": 1
+    },
+    "send a message to vardan": {
+        "count": 3
+    },
+    "vikram": {
+        "count": 1
+    },
+    "send a message to nikita": {
+        "count": 1
+    },
+    "send a message to vardhan": {
+        "count": 1
+    },
+    "prashant": {
+        "count": 1
+    },
+    "live message to vardan": {
+        "count": 1
+    },
+    "is": {
+        "count": 1
+    },
+    "send hello message to vardan": {
+        "count": 1
+    },
+    "and cal subah notes bhej dena message to whatsapp": {
+        "count": 1
+    },
+    "send cal subah notes bhej dena message tu vardan": {
+        "count": 1
+    },
+    "pahle aawara song": {
+        "count": 1
+    },
+    "play mahadev": {
+        "count": 1
+    },
+    "any message": {
+        "count": 1
+    },
+    "wi-fi": {
+        "count": 1
+    },
+    "play mahadev song": {
+        "count": 1
+    },
+    "system shutdown": {
+        "count": 4
+    },
+    "nno": {
+        "count": 1
+    },
+    "send a message to harsh": {
+        "count": 1
+    },
+    "system sleep": {
+        "count": 1
+    },
+    "central college jaega message tu vardan": {
+        "count": 1
+    },
+    "sex karne wala": {
+        "count": 1
+    },
+    "kahan ho": {
+        "count": 1
+    },
+    "roti kha li": {
+        "count": 1
+    },
+    "jharkhand malai kitni dur": {
+        "count": 1
+    },
+    "mujhe milana hai balon ko sidha": {
+        "count": 1
+    },
+    "saint cal college jaega message tu": {
+        "count": 1
+    },
+    "send cal college jaega message tu vardhan": {
+        "count": 1
+    },
+    "bhole ji ko message tu vardhan": {
+        "count": 1
+    },
+    "sad cal college jaega message to vard": {
+        "count": 1
+    },
+    "friend cal college jaega message to vardan": {
+        "count": 1
+    },
+    "nahin kuchh gadbadi": {
+        "count": 1
+    },
+    "sad cal college jaega message tu vard": {
+        "count": 1
+    },
+    "send cal college jaega message to vardan": {
+        "count": 1
+    },
+    "send cal college jaega": {
+        "count": 1
+    },
+    "send cal college jaega message tu vard": {
+        "count": 1
+    },
+    "shutdown system shutdown": {
+        "count": 1
+    },
+    "han": {
+        "count": 1
+    },
+    "first language status": {
+        "count": 1
+    },
+    "send a message to gaurav bhaiya": {
+        "count": 1
+    },
+    "gaurav kumari purani": {
+        "count": 1
+    },
+    "phenomenal": {
+        "count": 1
+    },
+    "4 january": {
+        "count": 1
+    },
+    "send highway whatsapp message": {
+        "count": 1
+    },
+    "send hay message tu gaurav tyagi bhaiya": {
+        "count": 1
+    },
+    "artery play bhajan": {
+        "count": 5
+    },
+    "marathi status": {
+        "count": 1
+    },
+    "send message to gaurav bhaiya saying good morning": {
+        "count": 1
+    },
+    "send message to gaurav tyagi say": {
+        "count": 1
+    },
+    "send message to gaurav tyagi": {
+        "count": 2
+    },
+    "send message to gaurav tyagi saying good night": {
+        "count": 1
+    },
+    "send message to gaurav tyagi saying whatsapp text successful": {
+        "count": 1
+    },
+    "send message to gaurav tyagi saying this is system generated message": {
+        "count": 1
+    },
+    "send message to vardan singh": {
+        "count": 2
+    },
+    "send message tu vardan singh muradnagar kab aaega": {
+        "count": 1
+    },
+    "send message to vardan saying muradnagar kab aaega": {
+        "count": 1
+    },
+    "message to vardan saying": {
+        "count": 1
+    },
+    "send message tu vardhan singh artery test successful": {
+        "count": 1
+    },
+    "send message tu vardan singh artery test": {
+        "count": 1
+    },
+    "send message tu vardan": {
+        "count": 1
+    },
+    "send message to vardan saying artist": {
+        "count": 1
+    },
+    "send message to vardhan singh artery dash successful": {
+        "count": 1
+    },
+    "send message to vardhan singh arter": {
+        "count": 1
+    },
+    "sad message to vardan": {
+        "count": 1
+    },
+    "send message tu vardan singh": {
+        "count": 3
+    },
+    "send message to vardan singh whatsapp test successful": {
+        "count": 1
+    },
+    "send message tu vardan saying whatsapp test successful": {
+        "count": 1
+    },
+    "send message to vardan saying whatsapp test success": {
+        "count": 1
+    },
+    "send message to vardan saying this is system generated message": {
+        "count": 1
+    },
+    "send message to vardan singh artery sending": {
+        "count": 1
+    },
+    "send message tu vardan saying art resending": {
+        "count": 1
+    },
+    "send": {
+        "count": 3
+    },
+    "send message to vardhan": {
+        "count": 1
+    },
+    "message to vardan singh orders": {
+        "count": 1
+    },
+    "send message to vardan saying artery sending message": {
+        "count": 1
+    },
+    "light chalu": {
+        "count": 1
+    },
+    "send message to nikita singh what she doing in night": {
+        "count": 1
+    },
+    "send message tu nikita singh what she doing in night": {
+        "count": 1
+    },
+    "send message to nikita singh what she doing in": {
+        "count": 1
+    },
+    "send message to nikita saying what you doing in night": {
+        "count": 1
+    },
+    "send message tu nikita singh hello i am": {
+        "count": 1
+    },
+    "send message tu nikita saying hello": {
+        "count": 1
+    },
+    "send message tu nikita saying hello i": {
+        "count": 2
+    },
+    "send message tu nikita saying hello i am": {
+        "count": 2
+    },
+    "send message tu nikita saying hello i am ar": {
+        "count": 1
+    },
+    "send message to nikita saying hello i am": {
+        "count": 1
+    },
+    "send message to nikita saying i am": {
+        "count": 1
+    },
+    "send message to nikita singh": {
+        "count": 1
+    },
+    "rotary system shutdown": {
+        "count": 1
+    },
+    "rotary open chrome": {
+        "count": 1
+    },
+    "send message to shivam tyagi saying good night": {
+        "count": 1
+    },
+    "y e": {
+        "count": 4
+    },
+    "ies": {
+        "count": 1
+    },
+    "yesyes": {
+        "count": 1
+    },
+    "artery open guitar": {
+        "count": 2
+    },
+    "open guitar": {
+        "count": 1
+    },
+    "aur kisne banaya": {
+        "count": 1
+    },
+    "ab ismein alarm connect": {
+        "count": 1
+    },
+    "send message tu tushar no sorry": {
+        "count": 1
+    },
+    "send message tu bhai saying hello": {
+        "count": 2
+    },
+    "send message": {
+        "count": 2
+    },
+    "send message tu bhai": {
+        "count": 2
+    },
+    "message to bhai saying hello": {
+        "count": 2
+    },
+    "command perfect dikkat": {
+        "count": 1
+    },
+    "sunai de rahi hai": {
+        "count": 1
+    },
+    "sing hello i am ar": {
+        "count": 1
+    },
+    "send message to bhai": {
+        "count": 1
+    },
+    "send message to bhai saying hello i": {
+        "count": 1
+    },
+    "send message tu bhai saying i am arter": {
+        "count": 2
+    },
+    "send message tu bhai saying i am a": {
+        "count": 1
+    },
+    "send message tu bhai saying i am ar": {
+        "count": 2
+    },
+    "send message tu bhai saying i am a tree": {
+        "count": 1
+    },
+    "send message to bhai saying i am a": {
+        "count": 1
+    },
+    "send message tu bhai saying i am": {
+        "count": 1
+    },
+    "send message tu bhai saying": {
+        "count": 2
+    },
+    "message to bhai saying this is system generated message": {
+        "count": 1
+    },
+    "send message tu bhai say": {
+        "count": 1
+    },
+    "message tu bhai saying this is system generated message": {
+        "count": 1
+    },
+    "send message tu bhai saying this is system generated message": {
+        "count": 1
+    },
+    "send message bhai": {
+        "count": 1
+    },
+    "send message tu bhai singh not reply back": {
+        "count": 1
+    },
+    "send message tu bhai saying good night": {
+        "count": 1
+    },
+    "places to buy saying good night": {
+        "count": 1
+    },
+    "play send song": {
+        "count": 1
+    },
+    "send message tu shivam tyagi saying hello": {
+        "count": 3
+    },
+    "send message tu shivam tyagi saying hello'": {
+        "count": 1
+    },
+    "hii": {
+        "count": 4
+    },
+    "send message to shivam tyagi saying hello": {
+        "count": 6
+    },
+    "yahan kya hai": {
+        "count": 1
+    },
+    "oopen chrome": {
+        "count": 1
+    },
+    "send message tu vardan saying hello": {
+        "count": 2
+    },
+    "play code with harry": {
+        "count": 1
+    },
+    "english ka model bataiye kar diya bolata thoda sa hindi song": {
+        "count": 1
+    },
+    "yah to bol raha tha ki artery close chrome": {
+        "count": 1
+    },
+    "hybrid play sad song": {
+        "count": 1
+    },
+    "laptop ka vah bhi to": {
+        "count": 1
+    },
+    "vaise to meri bahana beta volume up": {
+        "count": 1
+    },
+    "send message to shivam tyagi saying hi": {
+        "count": 3
+    },
+    "send message tu shivam tyagi saying hay": {
+        "count": 2
+    },
+    "kya hua kaise hui mila na mila": {
+        "count": 1
+    },
+    "message to shivam tyagi saying hi": {
+        "count": 2
+    },
+    "message tu shivam tyagi saying hi": {
+        "count": 1
+    },
+    "message send message to shivam tyagi": {
+        "count": 1
+    },
+    "send message to shivam tyagi singh": {
+        "count": 2
+    },
+    "send message tu shivam tyagi singh": {
+        "count": 1
+    },
+    "send message to shivam tyagi saying whatsapp status": {
+        "count": 1
+    },
+    "send message tu shivam tyagi saying whatsapp text": {
+        "count": 1
+    },
+    "message to shivam tyagi saying": {
+        "count": 1
+    },
+    "shivam tyagi singh mr": {
+        "count": 1
+    },
+    "shivam tyagi saying i'm arter": {
+        "count": 1
+    },
+    "send message to shivam tyagi saying i am ar": {
+        "count": 2
+    },
+    "message to shivam tyagi saying i am ar": {
+        "count": 1
+    },
+    "send message tu shivam tyagi saying i am ar": {
+        "count": 1
+    },
+    "artery play sad": {
+        "count": 1
+    },
+    "minimise": {
+        "count": 1
+    },
+    "artery battery status": {
+        "count": 1
+    },
+    "artery battery status batao": {
+        "count": 1
+    },
+    "hydration": {
+        "count": 1
+    },
+    "shivam tyagi ko hay message karo": {
+        "count": 1
+    },
+    "shivam tyagi ko bhejo": {
+        "count": 1
+    },
+    "artery open gta v": {
+        "count": 1
+    },
+    "alterna": {
+        "count": 1
+    },
+    "kya karunga": {
+        "count": 1
+    },
+    "hello ar": {
+        "count": 1
+    },
+    "how": {
+        "count": 7
+    },
+    "what r u doing": {
+        "count": 1
+    },
+    "how r u": {
+        "count": 6
+    },
+    "hu r u": {
+        "count": 7
+    },
+    "r": {
+        "count": 1
+    },
+    "tel mi a joke": {
+        "count": 1
+    },
+    "a joke": {
+        "count": 1
+    },
+    "whats your name": {
+        "count": 1
+    },
+    "do you like music": {
+        "count": 2
+    },
+    "thanks": {
+        "count": 1
+    },
+    "bye": {
+        "count": 1
+    },
+    "what time": {
+        "count": 1
+    },
+    "aaj ki date": {
+        "count": 1
+    },
+    "how are": {
+        "count": 2
+    },
+    "ek baat samajhna": {
+        "count": 1
+    },
+    "w h o r": {
+        "count": 1
+    },
+    "tell me a joke": {
+        "count": 1
+    },
+    "what's your name": {
+        "count": 1
+    },
+    "how is the weather": {
+        "count": 1
+    },
+    "today vedar": {
+        "count": 1
+    },
+    "today weather": {
+        "count": 1
+    },
+    "can you play with me for me": {
+        "count": 1
+    },
+    "can you play for me": {
+        "count": 1
+    },
+    "play science video": {
+        "count": 1
+    },
+    "please show me the video of indresh ji maharaj": {
+        "count": 1
+    },
+    "cricket lagai nahin": {
+        "count": 1
+    },
+    "achcha vaise bhi matlab meri baat ko interpret karna": {
+        "count": 1
+    },
+    "interpret karna": {
+        "count": 1
+    },
+    "the video of indresh ji maharaj": {
+        "count": 1
+    },
+    "video of indresh ji maharaj": {
+        "count": 1
+    },
+    "show me the video of banke bihari lal": {
+        "count": 1
+    },
+    "play the video of banke": {
+        "count": 1
+    },
+    "agar jo bhi video upload": {
+        "count": 1
+    },
+    "to uska thoda sa net khatm ho gaya": {
+        "count": 1
+    },
+    "contact ko message send kar": {
+        "count": 1
+    },
+    "message to whatsapp": {
+        "count": 1
+    },
+    "agar office mein debugging karne mein thodi si mushkil hogi mujhe": {
+        "count": 1
+    },
+    "artery play music": {
+        "count": 1
+    },
+    "play songs": {
+        "count": 1
+    },
+    "attend the call": {
+        "count": 1
+    },
+    "artery volume": {
+        "count": 1
+    },
+    "argentina next": {
+        "count": 1
+    },
+    "cal ko modinagar jana": {
+        "count": 1
+    },
+    "ghar ki sarkar dwara ghar ko aaja": {
+        "count": 1
+    },
+    "share": {
+        "count": 1
+    },
+    "blue film video": {
+        "count": 1
+    },
+    "eknath": {
+        "count": 1
+    },
+    "meri galti hai tumhari koi galti": {
+        "count": 1
+    },
+    "tracking tech": {
+        "count": 1
+    },
+    "heelo artery": {
+        "count": 1
+    },
+    "hiihii": {
+        "count": 2
+    },
+    "how how are you": {
+        "count": 1
+    },
+    "hawa hawa": {
+        "count": 1
+    },
+    "katrina luna": {
+        "count": 1
+    },
+    "send hi message to shivam tyagi": {
+        "count": 1
+    },
+    "samne wale": {
+        "count": 1
+    },
+    "send message to shubham tyagi saying hello": {
+        "count": 1
+    },
+    "send message to shivam tyagi saying": {
+        "count": 1
+    },
+    "jagjit singh": {
+        "count": 1
+    },
+    "send message tu shivam tyagi say": {
+        "count": 1
+    },
+    "send message to shivam tyagi singh rto": {
+        "count": 1
+    },
+    "send message to shivam tyagi saying artery starting": {
+        "count": 1
+    },
+    "send message tu shivam": {
+        "count": 1
+    },
+    "shivam tyagi saying hello": {
+        "count": 2
+    },
+    "are you saying hello": {
+        "count": 1
+    },
+    "message to shivam": {
+        "count": 1
+    },
+    "send message to shivam tya": {
+        "count": 1
+    },
+    "send message kusum tyagi saying hello": {
+        "count": 1
+    },
+    "scan the system": {
+        "count": 1
+    },
+    "system": {
+        "count": 1
+    },
+    "scan system": {
+        "count": 1
+    },
+    "open calculator": {
+        "count": 1
+    },
+    "close calculator": {
+        "count": 1
+    },
+    "download system": {
+        "count": 1
+    },
+    "shutdown system": {
+        "count": 2
+    },
+    "mummy ki awaaz": {
+        "count": 1
+    },
+    "play danda": {
+        "count": 1
+    },
+    "phone ja rahe": {
+        "count": 1
+    },
+    "hell": {
+        "count": 1
+    },
+    "hehello": {
+        "count": 1
+    },
+    "send message s": {
+        "count": 1
+    },
+    "send meesend": {
+        "count": 1
+    },
+    "open my file": {
+        "count": 1
+    }
+}
