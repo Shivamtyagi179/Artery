@@ -71,7 +71,7 @@ Output (Voice / Actions / Alerts)
 
 🎤 Voice Command
 
-   ↓
+        ↓
 
 🧠 Processing (Speech + NLP)
 
