@@ -35,15 +35,25 @@ Unlike traditional assistants, Artery doesn’t just wait —  it **understands,
 ## 🏗️ Architecture
 
 User Input (Voice / Vision / Text)
+
         ↓
+
 Speech & Vision Processing
+
         ↓
+
 Context + Memory Engine
+        
         ↓
+
 Task Engine (Decision Making)
+        
         ↓
+
 Execution Layer (OS / Apps / Security)
+
         ↓
+
 Output (Voice / Actions / Alerts)
 
 ---
@@ -66,60 +76,94 @@ artery/
 
 ---
 
+---
 
 ⚙️ Core Workflow
 
 🎤 Voice Command
+
    ↓
+
 🧠 Processing (Speech + NLP)
+
    ↓
+
 ⚙️ Task Engine
+
    ↓
+
 💻 System Execution
+
    ↓
+
 🔊 Response / Action
 
+---
+
+---
 
 🛠️ Tech Stack
 
+
 Language: Python
+
+
 AI: Speech Recognition, NLP, Local Models
+
 System: OS Automation, Process Control
+
 Architecture: Modular + Plugin-Based
+
 Future: Computer Vision, LLM Integration
+
+---
 
 🔐 Key Capabilities
 
 ✅ Execute system commands instantly
+
 ✅ Monitor system health & threats
+
 ✅ Detect unauthorized access
+
 ✅ Learn user behavior
+
 ✅ Work offline + online
 
-
+---
 
 🚧 Roadmap
 
  Core architecture
+ 
  Voice command system
+ 
  Conversational AI
+ 
  Face recognition authentication
+ 
  Adaptive learning system
+ 
  3D AI interface
 
-
+---
 
 🤝 Contributing
 
 1. Fork the repository  
+
 2. Create a new branch  
+
 3. Commit your changes  
+
 4. Open a Pull Request  
 
+---
 
 💡 Vision
 
 Artery is not just an assistant —
 it’s a step toward intelligent computing systems.
 
-A system that works with you, not just for you.
+
+--A system that works with you, not just for you.
