@@ -18,8 +18,7 @@
 Artery is a powerful AI system assistant built to redefine how users interact with their computers.  
 It combines **voice interaction, system automation, and real-time monitoring** into one intelligent layer.
 
-Unlike traditional assistants, Artery doesn’t just wait —  
-it **understands, decides, and executes in real time**.
+Unlike traditional assistants, Artery doesn’t just wait —  it **understands, decides, and executes in real time**.
 
 ---
 
@@ -33,13 +32,10 @@ it **understands, decides, and executes in real time**.
 
 ---
 
+
+
 ## 🏗️ Architecture
 
-<p align="center">
-  <img src="assets/architecture.png" width="800"/>
-</p>
-
-```text
 User Input (Voice / Vision / Text)
         ↓
 Speech & Vision Processing
@@ -51,7 +47,11 @@ Task Engine (Decision Making)
 Execution Layer (OS / Apps / Security)
         ↓
 Output (Voice / Actions / Alerts)
+
+
+
 📂 Project Structure
+
 artery/
 │── core/               # Brain logic (task engine, memory)
 │── modules/            # OS & App control
@@ -64,7 +64,11 @@ artery/
 │── secrets/            # Secure configs
 │── drivers/            # Hardware/low-level control
 │── main.py             # Entry point
+
+
+
 ⚙️ Core Workflow
+
 🎤 Voice Command
    ↓
 🧠 Processing (Speech + NLP)
@@ -74,30 +78,45 @@ artery/
 💻 System Execution
    ↓
 🔊 Response / Action
+
+
 🛠️ Tech Stack
+
 Language: Python
 AI: Speech Recognition, NLP, Local Models
 System: OS Automation, Process Control
 Architecture: Modular + Plugin-Based
 Future: Computer Vision, LLM Integration
+
 🔐 Key Capabilities
+
 ✅ Execute system commands instantly
 ✅ Monitor system health & threats
 ✅ Detect unauthorized access
 ✅ Learn user behavior
 ✅ Work offline + online
+
+
+
 🚧 Roadmap
+
  Core architecture
  Voice command system
  Conversational AI
  Face recognition authentication
  Adaptive learning system
  3D AI interface
+
+
+
 🤝 Contributing
+
 1. Fork the repository  
 2. Create a new branch  
 3. Commit your changes  
 4. Open a Pull Request  
+
+
 💡 Vision
 
 Artery is not just an assistant —
